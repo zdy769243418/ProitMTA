@@ -1,0 +1,1 @@
+dim=32,layers=[32,16],num_neg=4,path=Data/,dataset=ML,device=cpu,lr=0.001,a_lr=0.005,std=0.01,epochs=20,batch_size=256,items_limit=20,clients_limit=3,target_items=20,top_k_rec=50,proxy_nums=10,lamda_aug=50,noise=0.03,lamda_att=30,beta_a=1.5,lamda_fil=30,beta_r=50.0,launch=8,pop_num=10,lamda=10.0,use_sparse=False,use_clip=False,grad_limit=1.0,item_proportion=0.1
